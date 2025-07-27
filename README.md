@@ -15,18 +15,20 @@
 
 # 📘 ISTQB Specialist Certifications and Syllabus Links
 
-| **Certification**                  | **Code**               | **Syllabus / Description Link**                                                                 |
-|------------------------------------|------------------------|--------------------------------------------------------------------------------------------------|
-| Acceptance Testing                 | CT‑AcT                 | [Syllabus PDF](https://istqb.org/sdm_downloads/istqb-ct-act_syllabus_v1-0_2019/)                |
-| AI Testing                         | CT‑AI                  | [Syllabus PDF](https://istqb.org/sdm_downloads/istqb_ct-ai_syllabus_v1-0/)                      |
-| Testing with Generative AI *(Beta)*| CTFL‑GENAI             | [Overview Page](https://istqb.org/certifications/certified-tester-foundation-level-ai-testing/)|
-| Model-Based Tester                 | CT‑MBT                 | [Description Page](https://istqb.org/certifications/model-based-tester-ct-mbt/)                 |
-| Mobile Application Testing         | CT‑MAT                 | [Description Page](https://istqb.org/certifications/mobile-application-tester-ct-mat/)          |
-| Performance Testing                | CT‑PT                  | [Description Page](https://istqb.org/certifications/performance-tester-ct-pt/)                  |
-| Security Tester                    | CT‑SEC                 | [Description Page](https://istqb.org/certifications/security-tester-ct-sec/)                    |
-| Security Test Engineer *(Advanced)*| CT‑STE                 | [Description Page](https://istqb.org/certifications/security-test-engineer-ct-ste/)            |
-| Usability Testing                  | CT‑UT                  | [Description Page](https://istqb.org/certifications/usability-testing-ct-ut/)                   |
-| Automotive Software Tester         | CT‑AuT                 | [Description Page](https://istqb.org/certifications/automotive-software-tester-ct-aut/)         |
-| Gambling Industry Tester           | CT‑GT                  | [Description Page](https://istqb.org/certifications/gambling-industry-tester-ct-gt/)            |
-| Game Testing                       | CT‑GaMe                | [Description Page](https://istqb.org/certifications/game-testing-ct-game/)                      |
-| Test Automation Strategy           | CT‑TAS                 | [Syllabus PDF (BCS)](https://www.bcs.org/media/xiqglmbk/istqb-test-automation-strategy-syllabus.pdf) |
+| **Certification**                  | **Code**   | **Syllabus / Description Link**                                                                 |
+|------------------------------------|------------|--------------------------------------------------------------------------------------------------|
+| Acceptance Testing                 | CT‑AcT     | [ISTQB CT‑AcT Overview & Syllabus](https://istqb.org/certifications/certified-tester-acceptance-testing-ct-act/) :contentReference[oaicite:1]{index=1} |
+| AI Testing                         | CT‑AI      | [ISTQB CT‑AI Overview & Syllabus](https://istqb.org/certifications/certified-tester-ai-testing-ct-ai/) :contentReference[oaicite:2]{index=2} |
+| Testing with Generative AI (Beta) | CTFL‑GENAI | [Overview Page (Beta)](https://istqb.org/certifications/certified-tester-foundation-level-ai-testing/) :contentReference[oaicite:3]{index=3} |
+| Model‑Based Tester                | CT‑MBT     | [ISTQB CT‑MBT Overview](https://istqb.org/what-we-do/) (scroll to CT‑MBT section) :contentReference[oaicite:4]{index=4} |
+| Mobile Application Testing        | CT‑MAT     | [ISTQB CT‑MAT Overview](https://istqb.org/what-we-do/) (scroll to CT‑MAT section) :contentReference[oaicite:5]{index=5} |
+| Performance Testing               | CT‑PT      | [ISTQB CT‑PT Overview](https://istqb.org/what-we-do/) (scroll to CT‑PT section) :contentReference[oaicite:6]{index=6} |
+| Security Tester                   | CT‑SEC     | [Syllabus PDF (CT‑SEC v1.0)](https://istqb.org/wp-content/uploads/2025/02/ISTQB_STE_Syllabus_v1.0.pdf) :contentReference[oaicite:7]{index=7} |
+| Security Test Engineer (Advanced) | CT‑STE     | [Syllabus PDF (CT‑STE v1.0)](https://istqb.org/wp-content/uploads/2025/02/ISTQB_STE_Syllabus_v1.0.pdf) :contentReference[oaicite:8]{index=8} |
+| Usability Testing                 | CT‑UT      | [Syllabus PDF (Usability Testing)](https://istqb.org/?download_id=3607&sdm_process_download=1) :contentReference[oaicite:9]{index=9} |
+| Automotive Software Tester        | CT‑AuT     | [Overview (CT‑AuT)](https://scr.istqb.org/) (found under certification list) :contentReference[oaicite:10]{index=10} |
+| Gambling Industry Tester          | CT‑GT      | [Overview (CT‑GT)](https://scr.istqb.org/) (found under certification list) :contentReference[oaicite:11]{index=11} |
+| Game Testing                      | CT‑GaMe    | [Overview (CT‑GaMe)](https://scr.istqb.org/) (found under certification list) :contentReference[oaicite:12]{index=12} |
+| Test Automation Strategy          | CT‑TAS     | [ISTQB CT‑TAS Overview](https://istqb.org/certifications/certified-tester-test-automation-strategy-ct-tas/) :contentReference[oaicite:13]{index=13} |
+| —                                 | —          | [CT‑TAS Syllabus PDF v1.0 (May 3 2024)](https://istqb.org/?download_id=3571&sdm_process_download=1) :contentReference[oaicite:14]{index=14} |
+
